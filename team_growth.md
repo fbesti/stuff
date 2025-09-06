@@ -5,7 +5,7 @@
     - processes
     - workflows
     - IaC
-    - visibility
+    - visibility (what do we need to see)
     - security
 
 
