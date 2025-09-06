@@ -1,0 +1,3 @@
+# Ignore all files in secrets directory except templates and this gitignore
+*
+!.gitignore

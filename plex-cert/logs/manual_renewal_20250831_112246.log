@@ -1,7 +1,0 @@
-2025-08-31 11:22:46,199 - INFO - Configuration loaded from /home/freyr/homeprojects/stuff/plex-cert/config/settings.json
-2025-08-31 11:22:46,199 - INFO - Starting MANUAL certificate renewal process...
-2025-08-31 11:22:46,199 - INFO - Domain: plex.bigpapa.work
-2025-08-31 11:22:46,199 - INFO - Email: freyr.finnbogason@gmail.com
-2025-08-31 11:24:33,748 - INFO - Checking prerequisites...
-2025-08-31 11:24:33,750 - ERROR - Certbot not found. Please install certbot.
-2025-08-31 11:24:33,751 - INFO - On Ubuntu/Debian: sudo apt install certbot
