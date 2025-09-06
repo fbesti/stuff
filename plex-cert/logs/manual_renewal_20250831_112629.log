@@ -1,0 +1,20 @@
+2025-08-31 11:26:29,053 - INFO - Configuration loaded from /home/freyr/homeprojects/stuff/plex-cert/config/settings.json
+2025-08-31 11:26:29,053 - INFO - Starting MANUAL certificate renewal process...
+2025-08-31 11:26:29,053 - INFO - Domain: plex.bigpapa.work
+2025-08-31 11:26:29,053 - INFO - Email: freyr.finnbogason@gmail.com
+2025-08-31 11:26:32,308 - INFO - Checking prerequisites...
+2025-08-31 11:26:32,309 - INFO - Prerequisites check passed
+2025-08-31 11:26:32,310 - INFO - Created directory: /home/freyr/homeprojects/stuff/plex-cert/certs/manual/config
+2025-08-31 11:26:32,310 - INFO - Created directory: /home/freyr/homeprojects/stuff/plex-cert/certs/manual/work
+2025-08-31 11:26:32,310 - INFO - Created directory: /home/freyr/homeprojects/stuff/plex-cert/certs/manual/logs
+2025-08-31 11:26:32,310 - INFO - Starting manual certificate process for domain: plex.bigpapa.work
+2025-08-31 11:26:32,310 - INFO - Running manual certbot process...
+2025-08-31 11:26:32,311 - INFO - IMPORTANT: You will be prompted to create DNS TXT records manually
+2025-08-31 11:26:32,311 - INFO - Follow the certbot instructions to create the DNS records in Azure DNS
+2025-08-31 11:34:42,190 - INFO - Certificate obtained successfully
+2025-08-31 11:34:42,190 - INFO - Converting certificate to PFX format...
+2025-08-31 11:34:42,190 - INFO - Looking for certificates in: /home/freyr/homeprojects/stuff/plex-cert/certs/manual/config/live/plex.bigpapa.work
+2025-08-31 11:34:42,212 - INFO - PFX file created: /home/freyr/homeprojects/stuff/plex-cert/certs/plex.bigpapa.work-manual.pfx
+2025-08-31 11:34:42,220 - INFO - PFX file verified successfully
+2025-08-31 11:34:42,220 - INFO - Certificate renewal completed successfully!
+2025-08-31 11:34:42,220 - INFO - PFX file ready for Plex: /home/freyr/homeprojects/stuff/plex-cert/certs/plex.bigpapa.work-manual.pfx
